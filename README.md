@@ -67,6 +67,6 @@ diversas imágenes sobre la carrera de ciberseguridad.
 
 Al ingresar con un usuario administrador, detallamos las siguientes funcionalidades:
 
-1 - ingresar un correo electrónico para buscar todos sus accesos al sistema, detallando su ID, e-mail y fecha de acceso.
-2 - Posibilidad de desbloquear aquel usuario que haya ingresado más de 2 veces una contraseña incorrecta.
-3 - El usuario administrador puede eliminar un usuario seleccionado.
+- ingresar un correo electrónico para buscar todos sus accesos al sistema, detallando su ID, e-mail y fecha de acceso.
+- Posibilidad de desbloquear aquel usuario que haya ingresado más de 2 veces una contraseña incorrecta.
+- El usuario administrador puede eliminar un usuario seleccionado.
