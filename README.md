@@ -1,7 +1,7 @@
 ## Miembros Grupo:
 
-Garcia Maiztegui	Agustin
-Rojas	Curulla Martin César
+Garcia Maiztegui	Agustin,
+Rojas	Curulla Martin César,
 Rosso	Luis
 Rojas	Luana
 Tomas	Schulteis 
